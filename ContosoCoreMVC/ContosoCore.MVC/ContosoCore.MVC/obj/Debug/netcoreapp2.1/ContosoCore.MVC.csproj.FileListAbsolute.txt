@@ -1,0 +1,98 @@
+C:\Users\LAB03\Desktop\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\bin\Debug\netcoreapp2.1\ContosoCore.MVC.deps.json
+C:\Users\LAB03\Desktop\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\bin\Debug\netcoreapp2.1\ContosoCore.MVC.runtimeconfig.json
+C:\Users\LAB03\Desktop\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\bin\Debug\netcoreapp2.1\ContosoCore.MVC.runtimeconfig.dev.json
+C:\Users\LAB03\Desktop\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\bin\Debug\netcoreapp2.1\ContosoCore.MVC.dll
+C:\Users\LAB03\Desktop\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\bin\Debug\netcoreapp2.1\ContosoCore.MVC.pdb
+C:\Users\LAB03\Desktop\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\bin\Debug\netcoreapp2.1\ContosoCore.MVC.Views.dll
+C:\Users\LAB03\Desktop\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\bin\Debug\netcoreapp2.1\ContosoCore.MVC.Views.pdb
+C:\Users\LAB03\Desktop\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\bin\Debug\netcoreapp2.1\ContosoCore.DAL.dll
+C:\Users\LAB03\Desktop\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\bin\Debug\netcoreapp2.1\ContosoCore.Models.dll
+C:\Users\LAB03\Desktop\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\bin\Debug\netcoreapp2.1\ContosoCore.DAL.pdb
+C:\Users\LAB03\Desktop\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\bin\Debug\netcoreapp2.1\ContosoCore.Models.pdb
+C:\Users\LAB03\Desktop\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\ContosoCore.MVC.csproj.CoreCompileInputs.cache
+C:\Users\LAB03\Desktop\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\ContosoCore.MVC.RazorAssemblyInfo.cache
+C:\Users\LAB03\Desktop\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\ContosoCore.MVC.RazorAssemblyInfo.cs
+C:\Users\LAB03\Desktop\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\ContosoCore.MVC.AssemblyInfoInputs.cache
+C:\Users\LAB03\Desktop\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\ContosoCore.MVC.AssemblyInfo.cs
+C:\Users\LAB03\Desktop\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\ContosoCore.MVC.TagHelpers.input.cache
+C:\Users\LAB03\Desktop\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\ContosoCore.MVC.TagHelpers.output.cache
+C:\Users\LAB03\Desktop\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\ContosoCore.MVC.RazorCoreGenerate.cache
+C:\Users\LAB03\Desktop\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\LAB03\Desktop\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Create.g.cshtml.cs
+C:\Users\LAB03\Desktop\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Edit.g.cshtml.cs
+C:\Users\LAB03\Desktop\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.g.cshtml.cs
+C:\Users\LAB03\Desktop\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\LAB03\Desktop\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\LAB03\Desktop\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\LAB03\Desktop\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\LAB03\Desktop\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\Razor\Views\RoleAdmin\Create.g.cshtml.cs
+C:\Users\LAB03\Desktop\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\Razor\Views\RoleAdmin\Edit.g.cshtml.cs
+C:\Users\LAB03\Desktop\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\Razor\Views\RoleAdmin\Index.g.cshtml.cs
+C:\Users\LAB03\Desktop\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\LAB03\Desktop\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\LAB03\Desktop\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\LAB03\Desktop\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\LAB03\Desktop\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\Razor\Views\Student\Create.g.cshtml.cs
+C:\Users\LAB03\Desktop\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\Razor\Views\Student\Delete.g.cshtml.cs
+C:\Users\LAB03\Desktop\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\Razor\Views\Student\Edit.g.cshtml.cs
+C:\Users\LAB03\Desktop\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\Razor\Views\Student\Index.g.cshtml.cs
+C:\Users\LAB03\Desktop\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\LAB03\Desktop\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\LAB03\Desktop\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\ContosoCore.MVC.RazorTargetAssemblyInfo.cache
+C:\Users\LAB03\Desktop\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\ContosoCore.MVC.RazorTargetAssemblyInfo.cs
+C:\Users\LAB03\Desktop\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\ContosoCore.MVC.Views.pdb
+C:\Users\LAB03\Desktop\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\ContosoCore.MVC.csproj.CopyComplete
+C:\Users\LAB03\Desktop\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\ContosoCore.MVC.dll
+C:\Users\LAB03\Desktop\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\ContosoCore.MVC.pdb
+C:\Users\LAB03\Desktop\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\Razor\Views\Account\AccessDenied.g.cshtml.cs
+C:\Users\LAB03\Desktop\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_StudentList.g.cshtml.cs
+C:\Users\LAB03\Desktop\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\ContosoCore.MVC.csprojAssemblyReference.cache
+C:\Users\ksilva\Desktop\Proyectos\Curso MVC - Laboratorio\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\bin\Debug\netcoreapp2.1\ContosoCore.MVC.deps.json
+C:\Users\ksilva\Desktop\Proyectos\Curso MVC - Laboratorio\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\bin\Debug\netcoreapp2.1\ContosoCore.MVC.runtimeconfig.json
+C:\Users\ksilva\Desktop\Proyectos\Curso MVC - Laboratorio\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\bin\Debug\netcoreapp2.1\ContosoCore.MVC.runtimeconfig.dev.json
+C:\Users\ksilva\Desktop\Proyectos\Curso MVC - Laboratorio\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\bin\Debug\netcoreapp2.1\ContosoCore.MVC.dll
+C:\Users\ksilva\Desktop\Proyectos\Curso MVC - Laboratorio\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\bin\Debug\netcoreapp2.1\ContosoCore.MVC.pdb
+C:\Users\ksilva\Desktop\Proyectos\Curso MVC - Laboratorio\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\bin\Debug\netcoreapp2.1\ContosoCore.MVC.Views.dll
+C:\Users\ksilva\Desktop\Proyectos\Curso MVC - Laboratorio\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\bin\Debug\netcoreapp2.1\ContosoCore.MVC.Views.pdb
+C:\Users\ksilva\Desktop\Proyectos\Curso MVC - Laboratorio\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\bin\Debug\netcoreapp2.1\ContosoCore.DAL.dll
+C:\Users\ksilva\Desktop\Proyectos\Curso MVC - Laboratorio\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\bin\Debug\netcoreapp2.1\ContosoCore.Models.dll
+C:\Users\ksilva\Desktop\Proyectos\Curso MVC - Laboratorio\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\bin\Debug\netcoreapp2.1\ContosoCore.DAL.pdb
+C:\Users\ksilva\Desktop\Proyectos\Curso MVC - Laboratorio\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\bin\Debug\netcoreapp2.1\ContosoCore.Models.pdb
+C:\Users\ksilva\Desktop\Proyectos\Curso MVC - Laboratorio\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\ContosoCore.MVC.csprojAssemblyReference.cache
+C:\Users\ksilva\Desktop\Proyectos\Curso MVC - Laboratorio\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\ContosoCore.MVC.csproj.CoreCompileInputs.cache
+C:\Users\ksilva\Desktop\Proyectos\Curso MVC - Laboratorio\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\ContosoCore.MVC.RazorAssemblyInfo.cache
+C:\Users\ksilva\Desktop\Proyectos\Curso MVC - Laboratorio\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\ContosoCore.MVC.RazorAssemblyInfo.cs
+C:\Users\ksilva\Desktop\Proyectos\Curso MVC - Laboratorio\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\ContosoCore.MVC.AssemblyInfoInputs.cache
+C:\Users\ksilva\Desktop\Proyectos\Curso MVC - Laboratorio\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\ContosoCore.MVC.AssemblyInfo.cs
+C:\Users\ksilva\Desktop\Proyectos\Curso MVC - Laboratorio\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\ContosoCore.MVC.TagHelpers.input.cache
+C:\Users\ksilva\Desktop\Proyectos\Curso MVC - Laboratorio\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\ContosoCore.MVC.TagHelpers.output.cache
+C:\Users\ksilva\Desktop\Proyectos\Curso MVC - Laboratorio\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\ContosoCore.MVC.RazorCoreGenerate.cache
+C:\Users\ksilva\Desktop\Proyectos\Curso MVC - Laboratorio\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\Razor\Views\Account\AccessDenied.g.cshtml.cs
+C:\Users\ksilva\Desktop\Proyectos\Curso MVC - Laboratorio\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
+C:\Users\ksilva\Desktop\Proyectos\Curso MVC - Laboratorio\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Create.g.cshtml.cs
+C:\Users\ksilva\Desktop\Proyectos\Curso MVC - Laboratorio\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Edit.g.cshtml.cs
+C:\Users\ksilva\Desktop\Proyectos\Curso MVC - Laboratorio\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\Razor\Views\Admin\Index.g.cshtml.cs
+C:\Users\ksilva\Desktop\Proyectos\Curso MVC - Laboratorio\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+C:\Users\ksilva\Desktop\Proyectos\Curso MVC - Laboratorio\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+C:\Users\ksilva\Desktop\Proyectos\Curso MVC - Laboratorio\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+C:\Users\ksilva\Desktop\Proyectos\Curso MVC - Laboratorio\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+C:\Users\ksilva\Desktop\Proyectos\Curso MVC - Laboratorio\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\Razor\Views\RoleAdmin\Create.g.cshtml.cs
+C:\Users\ksilva\Desktop\Proyectos\Curso MVC - Laboratorio\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\Razor\Views\RoleAdmin\Edit.g.cshtml.cs
+C:\Users\ksilva\Desktop\Proyectos\Curso MVC - Laboratorio\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\Razor\Views\RoleAdmin\Index.g.cshtml.cs
+C:\Users\ksilva\Desktop\Proyectos\Curso MVC - Laboratorio\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Users\ksilva\Desktop\Proyectos\Curso MVC - Laboratorio\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\ksilva\Desktop\Proyectos\Curso MVC - Laboratorio\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Users\ksilva\Desktop\Proyectos\Curso MVC - Laboratorio\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_StudentList.g.cshtml.cs
+C:\Users\ksilva\Desktop\Proyectos\Curso MVC - Laboratorio\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\ksilva\Desktop\Proyectos\Curso MVC - Laboratorio\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\Razor\Views\Student\Create.g.cshtml.cs
+C:\Users\ksilva\Desktop\Proyectos\Curso MVC - Laboratorio\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\Razor\Views\Student\Delete.g.cshtml.cs
+C:\Users\ksilva\Desktop\Proyectos\Curso MVC - Laboratorio\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\Razor\Views\Student\Edit.g.cshtml.cs
+C:\Users\ksilva\Desktop\Proyectos\Curso MVC - Laboratorio\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\Razor\Views\Student\Index.g.cshtml.cs
+C:\Users\ksilva\Desktop\Proyectos\Curso MVC - Laboratorio\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Users\ksilva\Desktop\Proyectos\Curso MVC - Laboratorio\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\ksilva\Desktop\Proyectos\Curso MVC - Laboratorio\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\ContosoCore.MVC.RazorTargetAssemblyInfo.cache
+C:\Users\ksilva\Desktop\Proyectos\Curso MVC - Laboratorio\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\ContosoCore.MVC.RazorTargetAssemblyInfo.cs
+C:\Users\ksilva\Desktop\Proyectos\Curso MVC - Laboratorio\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\ContosoCore.MVC.Views.pdb
+C:\Users\ksilva\Desktop\Proyectos\Curso MVC - Laboratorio\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\ContosoCore.MVC.csproj.CopyComplete
+C:\Users\ksilva\Desktop\Proyectos\Curso MVC - Laboratorio\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\ContosoCore.MVC.dll
+C:\Users\ksilva\Desktop\Proyectos\Curso MVC - Laboratorio\proy\ContosoCoreMVC\ContosoCore.MVC\ContosoCore.MVC\obj\Debug\netcoreapp2.1\ContosoCore.MVC.pdb

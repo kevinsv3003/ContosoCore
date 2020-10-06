@@ -1,0 +1,12 @@
+﻿@model IEnumerable<ContosoCore.Models.Entities.Student>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    <a asp-action="Create">Crear Estudiante</a>
+</p>
+
+@await Html.PartialAsync("_StudentList", Model)

@@ -1,0 +1,38 @@
+﻿@model ContosoCore.Models.Entities.Student
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h2>Eliminar</h2>
+
+<h4>Estudiante</h4>
+
+<h3>¿Estás seguro de eliminar este registro?</h3>
+
+<div class="row">
+    <div class="col-md-12">
+
+        <div class="form-group">
+            <label asp-for="LastName" class="control-label"></label>
+            @Html.DisplayFor(s => Model.LastName)
+        </div>
+
+        <div class="form-group">
+            <label asp-for="FirstMidName" class="control-label"></label>
+            @Html.DisplayFor(s => Model.FirstMidName)
+        </div>
+
+        <div class="form-group">
+            <label asp-for="EmrollmentDate" class="control-label"></label>
+            @Html.DisplayFor(s => Model.EmrollmentDate)
+        </div>
+    </div>
+
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <div class="form-group">
+            <button type="submit" class="btn btn-primary"> <i class="glyphicon glyphicon-floppy-remove"></i> Eliminar Estudiante</button>
+            <a asp-action="Index" class="btn btn-danger"> <i class="glyphicon glyphicon-remove"></i>  Cancelar </a>
+        </div>
+    </form>
+</div>

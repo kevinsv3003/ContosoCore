@@ -1,0 +1,45 @@
+﻿@model IEnumerable<ContosoCore.Models.Entities.Student>
+<table class="table table-bordered table-hover">
+
+    <thead>
+        <tr>
+            <th>
+                Last Name
+            </th>
+            <th>
+                First Name
+            </th>
+            <th>
+                Enrollment Date
+            </th>
+            <th>
+                Acciones
+            </th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(s => item.LastName)
+                </td>
+                <td>
+                    @Html.DisplayFor(s => item.FirstMidName)
+                </td>
+                <td>
+                    @Html.DisplayFor(s => item.EmrollmentDate)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id">Editar</a>
+                    <a asp-action="Details" asp-route-id="@item.Id">Ver Detalle</a>
+                    <a asp-action="Delete" asp-route-id="@item.Id">Eliminar</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+
+
+</table>
+
